@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "rgs1" {
+resource "azurerm_resource_group" "rgs2" {
   name     = "rg-slovenia"
   location = "westus"
 }
